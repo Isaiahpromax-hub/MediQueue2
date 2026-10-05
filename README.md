@@ -24,10 +24,10 @@ All demo accounts use password: **password**
 | Patient | patient@mediqueue.com |
 
 Additional demo accounts:
-- patient2@mediqueue.com / password
-- patient3@mediqueue.com / password
-- doctor2@mediqueue.com / password
-- receptionist2@mediqueue.com / password
+- patient2@mediqueue.com 
+- patient3@mediqueue.com 
+- doctor2@mediqueue.com 
+- receptionist2@mediqueue.com 
 
 ## Installation (XAMPP)
 
