@@ -1,4 +1,4 @@
-<?php
+<?php <!-- Git test change -->
 $pageTitle = 'Dashboard';
 require_once '../includes/header.php';
 requirePatient();
